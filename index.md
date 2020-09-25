@@ -7,6 +7,7 @@ Conversational Path Reasoning (CPR) framework  introduce graph to address the mu
 tackles what item to recommend and what attribute to ask problem
 through message propagation on the graph.
 
+If you have any question regarding the CPR System, please contact its main author, Mr. Gangyi Zhang: gangyi.zhang@outlook.com
 
 ##### Shortcuts:
 
