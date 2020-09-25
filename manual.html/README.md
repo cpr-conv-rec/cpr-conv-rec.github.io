@@ -1,11 +1,38 @@
 # Interactive Path Reasoning on Graph for Conversational Recommendation
-Conversational Path Reasoning (CPR) framework  introduce graph to address the multi-round conversational recommendation problem. It
+Conversational Path Reasoning ([CPR](https://dl.acm.org/doi/pdf/10.1145/3394486.3403258)) framework  introduce graph to address the multi-round conversational recommendation problem. It
 tackles what item to recommend and what attribute to ask problem
-through message propagation on the graph
+through message propagation on the graph.
 
-This is our torch implementation for the paper:
+If you have any question regarding the CPR System, please contact its main author, Mr. Gangyi Zhang: gangyi.zhang@outlook.com
 
 
+
+Please kindly cite our paper if you use our code/dataset!
+```
+@inproceedings{lei2020interactive,
+  title={Interactive Path Reasoning on Graph for Conversational Recommendation},
+  author={Lei, Wenqiang and Zhang, Gangyi and He, Xiangnan and Miao, Yisong and Wang, Xiang and Chen, Liang and Chua, Tat-Seng},
+  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={2073--2083},
+  year={2020}
+}
+```
+
+##### Shortcuts:
+
+**Code:**
+```
+https://cpr-conv-rec.github.io/SCPR.zip
+```
+**Data:**
+```
+- Google Drive： https://drive.google.com/file/d/1NSVwwIPpWsbfvgvyT48ZUbVdkJBjM4M7/view?usp=sharing
+- Tencent Weiyun：https://share.weiyun.com/LletCCdF
+```
+
+---
+
+**This is our torch implementation for the paper:**
 ## Environment Requirement
 * Python >= 3.6
 * Numpy >= 1.12
