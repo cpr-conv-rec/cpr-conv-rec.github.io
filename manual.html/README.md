@@ -284,7 +284,7 @@ better understanding of the dataset.
   
 * `tag_map.json`
   * Map file.
-  * A dictionary of key value pairs. The key and the value of a dictionary entry: [`Real userID` : `userID`].
+  * A dictionary of key value pairs. The key and the value of a dictionary entry: [`Real attributeID` : `attributeID`].
   
 * `user_dict.json`
   * User file.
@@ -292,7 +292,7 @@ better understanding of the dataset.
   
 * `item_dict.json`
   * Item file.
-  * A dictionary of key value pairs. The key is `itemID` and the value of a dictionary entry is a new dict: [''attribute_index'' : `a list of attributeID`] & [''real_ID'' : `real_ID`]
+  * A dictionary of key value pairs. The key is `itemID` and the value of a dictionary entry is a new dict: [''attribute_index'' : `a list of attributeID`] 
 
 **2. FM Sample Data**
 ###### For the process of generating FM train data, please refer to Appendix B.2 of the paper.
