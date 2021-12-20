@@ -17,12 +17,12 @@ https://cpr-conv-rec.github.io/manual.html
 ```
 **Code:**
 ```
-https://cpr-conv-rec.github.io/SCPR.zip
+https://github.com/farrecall/SCPR
 ```
 **Data:**
 ```
-- Google Drive： https://drive.google.com/file/d/1NSVwwIPpWsbfvgvyT48ZUbVdkJBjM4M7/view?usp=sharing
-- Tencent Weiyun：https://share.weiyun.com/LletCCdF
+- Google Drive： https://drive.google.com/file/d/1Xkq5UGuE70P8QIBOWSmVtxDImnOkCoZA/view?usp=sharing
+- Tencent Weiyun：https://share.weiyun.com/ctZX2rnq
 ```
 
 # Related Resource
