@@ -20,14 +20,9 @@ Please kindly cite our paper if you use our code/dataset!
 
 ##### Shortcuts:
 
-**Code:**
+**Code & Data:**
 ```
 - https://github.com/farrecall/SCPR
-```
-**Data:**
-```
-- Google Drive： https://drive.google.com/file/d/1Xkq5UGuE70P8QIBOWSmVtxDImnOkCoZA/view?usp=sharing
-- Tencent Weiyun：https://share.weiyun.com/ctZX2rnq
 ```
 
 ---
